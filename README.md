@@ -39,7 +39,7 @@ interactive-photo-gallery/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/gasarosonia/interactive-photo-gallery.git
+   git clone https://github.com/gasarosonia/Responsive-gallery-Task.git
    ```
 
 2. **Navigate to the project directory:**
